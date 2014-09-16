@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><application id="Application_ID" version="1.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/application_1_4.xsd">
+    <display-name>proj_16_sept16_30</display-name>
+    <module>
+        <web>
+            <web-uri>proj_16_sept16_30.war</web-uri>
+            <context-root>/proj_16_sept16_30</context-root>
+        </web>
+    </module>
+</application>
