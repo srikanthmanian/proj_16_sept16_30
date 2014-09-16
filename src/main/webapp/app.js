@@ -9,4 +9,5 @@ Application.run(function ($rootScope) {
     };
     
     $rootScope.abcd = "hahahahahahhhihihihihihihi";
+    $rootScope.defghi = "abcdefghi";
 });
