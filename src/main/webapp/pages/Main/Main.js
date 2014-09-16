@@ -17,5 +17,6 @@ Application.$controller("MainPageController", ['$scope', function ($scope) {
     };
     
     $scope.abcdef = "hello";
+    $scope.defghijklmn = "xyz";
 
 }]);
